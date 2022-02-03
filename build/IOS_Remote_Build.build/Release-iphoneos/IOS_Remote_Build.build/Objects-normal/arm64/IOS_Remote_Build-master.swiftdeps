@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "917371b71035dca77f28e110fce9ffa1605297a5c6a0a78f0157ec977828f850"
+build_start_time: [1643870515, 659909963]
+build_end_time: [1643870516, 136224031]
+inputs:
+  "/Users/ios20/Documents/Jenkins Test/IOS_Remote_Build/IOS_Remote_Build/AppDelegate.swift": [1631729404, 797031641]
+  "/Users/ios20/Documents/Jenkins Test/IOS_Remote_Build/IOS_Remote_Build/SceneDelegate.swift": [1631729404, 809623241]
+  "/Users/ios20/Documents/Jenkins Test/IOS_Remote_Build/IOS_Remote_Build/ViewController.swift": [1631729404, 824929714]
